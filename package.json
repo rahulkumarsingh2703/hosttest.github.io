@@ -2,7 +2,7 @@
   "name": "hosttest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rahulkumarsingh2703.github.io/hosttest",
+  "homepage": "https://rahulkumarsingh2703.github.io/hosttest.github.io",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.5",
